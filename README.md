@@ -1,4 +1,4 @@
-# Transference_Number_Calc
+# Transference-Number-Determination
 Read data from chronoamperometry and electrochemical impedance spectroscopy testing to calculate a cation transport number.  
 The normalized chronoamperometry data is graphed, the EIS data is graphed, and the resulting transference number is graphed.
 
